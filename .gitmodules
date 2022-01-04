@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/localization_contract"]
+	path = Zmakan-Technical-Solutions/localization_contract
+	url = git@github.com:hibapk-zmakan/localization_contract.git
+	branch = 13.0
